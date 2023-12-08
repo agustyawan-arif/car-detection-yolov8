@@ -25,6 +25,8 @@ This repository provides scripts for training and evaluating YOLOv8 models on a 
 
    [Car Object Detetion Dataset](https://drive.google.com/drive/folders/19K_94Op1Pl6p0Qcb0mOi9GAyPs4yFI1K?usp=sharing)
 
+   This dataset downloaded from [Kaggle](https://www.kaggle.com/datasets/sshikamaru/car-object-detection/data) and have formatted into YOLO format.
+
 4. Configure your WandB API key:
 
    Open `config.conf` and replace `YOUR WANDB KEY` with your actual WandB API key. Replace {/path/to/data}/car-object-detection with data path downloaded above.
@@ -61,3 +63,4 @@ Replace `yolov8m.pt` with the desired trained model weights file.
 
 - [Ultralytics YOLO](https://github.com/ultralytics/ultralytics)
 - [WandB](https://wandb.ai/)
+- [Car Object Detection Dataset](https://www.kaggle.com/datasets/sshikamaru/car-object-detection/data)
