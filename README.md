@@ -2,7 +2,7 @@
 
 This repository provides scripts for training and evaluating YOLOv8 models on a car-object detection dataset. The project is built using the Ultralytics YOLOv8 library and integrates with WandB for experiment tracking.
 
-![Evaluate Result](assets/evaluate_result.png)
+![Evaluate Result](assets/evaluate_result.jpeg)
 
 ## Setup
 
